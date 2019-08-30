@@ -18,14 +18,16 @@ The implemented features include the following:
 
 8. Users can also delete items from the shopping list, and modify the quantities of the ingredients in the shopping list.
 
-9. localStorage was used to implement persistant data storage.
+9. localStorage was used to implement persistant data storage of the "liked list".
 
 
 Current bug list and to do list:
 
 1. The ingredient quantities can be set to negative (bug).
 
-2. To use a different API due to usage limit.
+2. The shopping list doesn't use localStorage for persistant data storage yet.
+
+3. To use a different API due to usage limit.
 
 
 
