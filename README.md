@@ -8,7 +8,7 @@ The implemented features include the following:
 
 3. Search results are displayed through pigmentation on the left part of the webpage.
 
-4. When the user clicks on a certain webpage, information including the recipe ingredients, serving numbers and cooking time is displayed in the middle of the webpage.
+4. When the user clicks on a certain recipe, information including the recipe ingredients, serving numbers and cooking time is displayed in the middle of the webpage.
 
 5. URL link of the recipe is displayed in the bottom part of the webpage.
 
